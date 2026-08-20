@@ -1,4 +1,4 @@
-//AREA OF SQUARE
+// AREA OF SQUARE
 
 // #include<iostream>
 // using namespace std;
@@ -13,7 +13,7 @@
 // }
 
 
-//GST CALCULATOR
+// GST CALCULATOR
 
 
 // #include<iostream>
@@ -38,7 +38,7 @@
 
 
 
-//SI CALCULATOR
+// SI CALCULATOR
 
 // #include<iostream>
 // using namespace std;
@@ -60,7 +60,7 @@
 
 
 
-// //AREA OF CIRCLE
+// AREA OF CIRCLE
 
 // #include<iostream>
 // using namespace std;
@@ -75,4 +75,3 @@
 // }
 
 
-//
