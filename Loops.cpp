@@ -103,40 +103,40 @@
 
 // Fibonacci
 
-#include <iostream>
-using namespace std;
+// #include <iostream>
+// using namespace std;
 
-int main()
-{
-    int n = 0;
-    cout << "Enter the number: ";
-    cin >> n;
-    if (n == 0)
-    {
-        return 0;
-    }
-    int a = 0;
-    int b = 1;
-    int c = 0;
-    for (int i = 1; i <= n; i++)
-    {
-        if (i == 1)
-        {
-            cout << a << " ";
-        }else if (i==2)
-        {
-            cout<< b <<" ";
-        }
+// int main()
+// {
+//     int n = 0;
+//     cout << "Enter the number: ";
+//     cin >> n;
+//     if (n == 0)
+//     {
+//         return 0;
+//     }
+//     int a = 0;
+//     int b = 1;
+//     int c = 0;
+//     for (int i = 1; i <= n; i++)
+//     {
+//         if (i == 1)
+//         {
+//             cout << a << " ";
+//         }else if (i==2)
+//         {
+//             cout<< b <<" ";
+//         }
         
-        else
-        {
+//         else
+//         {
 
-            c = a + b;
-            a = b;
-            b = c;
-            cout << b << " ";
-        }
-    }
+//             c = a + b;
+//             a = b;
+//             b = c;
+//             cout << b << " ";
+//         }
+//     }
 
-    return 0;
-}
+//     return 0;
+// }
